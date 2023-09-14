@@ -1,3 +1,19 @@
-.livro{
-    width: 50%;
+
+.titulo{
+    float: left;
+    width: 450px;
+    font-family: 'Segoe UI';
+    font-size: 50px;
+    text-align: center;
 }
+.meio_do_titulo{
+    float: right;
+    width: 1000px;
+    font-size: 25px;
+    text-align: center
+}
+
+.cabecalho{
+    height: 300px;
+    width: 100%;
+    background: rebeccapurple; }            
